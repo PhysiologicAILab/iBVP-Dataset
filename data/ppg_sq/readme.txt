@@ -1,0 +1,1 @@
+After downloading the dataset, all .csv files can be copied to this folder to run SQA_PhysMD on the PPG signals.
