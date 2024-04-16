@@ -6,11 +6,17 @@ Joshi, Jitesh, and Youngjun Cho. 2024. "iBVP Dataset: RGB-Thermal rPPG Dataset w
 
 ## About iBVP Dataset
 
-The iBVP dataset is a collection of synchronized RGB and thermal infrared videos with PPG ground-truth signals acquired from an ear. The PPG signals are marked with manual signal quality labels, as well as with the SQA-PhysMD model trained and validated to conduct dense (per-sample) signal-quality assessment. The data acquisition protocol was designed to inducing real-world variations in psycho-physiological states, as well as head movement. Each participant experienced four conditions, including (a) rhythmic slow breathing and rest – “A,” (b) an easy math task – “B,” (c) a difficult math task – “C,” and (d) a guided head movement task – “D.” RGB and thermal cameras were positioned in front of the participant at around a 1 m distance. A webcam (Logitech BRIO 4K UHD) was used to capture RGB video frames with 640 × 480 resolution, while thermal infrared frames were captured using thermal camera (A65SC, FLIR system) having 640 × 512 resolution. Frame-rate was set to at 30 FPS for both RGB and thermal acquisition. With 123 sessions, each lasting 3 minutes, the dataset comprises 369 minutes (about 6 hours) of RGB–Thermal video recordings.
+The iBVP dataset is a collection of synchronized RGB and thermal infrared videos with PPG ground-truth signals acquired from an ear. The PPG signals are marked with manual signal quality labels, as well as with the SQA-PhysMD model trained and validated to conduct dense (per-sample) signal-quality assessment. The data acquisition protocol was designed to inducing real-world variations in psycho-physiological states, as well as head movement. Each participant experienced four conditions, including (a) rhythmic slow breathing and rest – “A,” (b) an easy math task – “B,” (c) a difficult math task – “C,” and (d) a guided head movement task – “D.” RGB and thermal cameras were positioned in front of the participant at around a 1 m distance. A webcam (Logitech BRIO 4K UHD) was used to capture RGB video frames with 640 × 480 resolution, while thermal infrared frames were captured using thermal camera (A65SC, FLIR system) having 640 × 512 resolution. Frame-rate was set to at 30 FPS for both RGB and thermal acquisition. With 124 sessions, each lasting 3 minutes, the dataset comprises 372 minutes (about 6 hours) of RGB–Thermal video recordings.
 
 ## Requesting iBVP Dataset
 
-We have released the iBVP dataset **only for academic research purposes**. The dataset can be requested from the authors by submitting a signed copy of the end-user's licence agreement **[EULA](assets/EULA_iBVP-Dataset.pdf)**. Please note that the EULA form is required to be filled by **academic supervisors**. After submitting the signed EULA to the email addresses mentioned in the EULA, your request will be reviewed and on acceptance, you will receive a link to download the dataset.
+We have released the iBVP dataset **only for academic research purposes**. The dataset can be requested from the authors by submitting a signed copy of the end-user's licence agreement **[EULA](assets/EULA_iBVP-Dataset.pdf)**. Please note that the EULA form is required to be filled by **academic supervisors**. After submitting the signed EULA to the email addresses mentioned in the EULA, your request will be reviewed and on acceptance, you will receive a link to download the dataset. 
+
+In your email, please include following along with the signed EULA:
+
+- Some words on your research and how the database would be used.
+- How you heard of the database (colleague, papers, etc.)
+
 
 ## Dataset Contents
 
