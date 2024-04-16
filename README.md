@@ -48,6 +48,9 @@ The dataset size (compressed) is ~400 GB. After downloading and extracting the z
   * *SQ1*: Manually annotated signal quality labels
   * *Perfusion_Value*: Perfusion index computed from the raw PPG signals.
 
+**Please note:**
+The data of few participants who provided limited consent is kept in a separate folder, named "Confidential_No-media-use". The participant IDs with limited consent include following: p08, p10, p13, p16, p29, p31, and p33. Though for training and/or evaluating rPPG methods, this data will have to be moved to the main dataset folder (i.e. iBVP_Dataset folder as described above), please keep this data confidential and extremely secured.
+
 ## Code associated with the iBVP dataset
 
 The code is developed by [Youngjun's research group on computational physiology and intelligence](https://www.ucl.ac.uk/uclic/research-projects/2024/jan/physiological-computing-ai) at [UCL GDIH - WHO Collaborating centre for AT](https://www.disabilityinnovation.com/research), [UCL Interaction Centre](https://www.ucl.ac.uk/uclic/), and [UCL Computer Science](https://www.ucl.ac.uk/computer-science/).
