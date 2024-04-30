@@ -55,7 +55,7 @@ The data of few participants who provided limited consent is kept in a separate 
 
 The code is developed by [Youngjun's research group on computational physiology and intelligence](https://www.ucl.ac.uk/uclic/research-projects/2024/jan/physiological-computing-ai) at [UCL GDIH - WHO Collaborating centre for AT](https://www.disabilityinnovation.com/research), [UCL Interaction Centre](https://www.ucl.ac.uk/uclic/), and [UCL Computer Science](https://www.ucl.ac.uk/computer-science/).
 
-This code builds upon the [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox). Until the developed code is merged with the source repo, users can refer to [this fork of the repo](https://github.com/PhysiologicAILab/rPPG-Toolbox).
+This code builds upon the [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox). The changes made in [this fork of the repo](https://github.com/PhysiologicAILab/rPPG-Toolbox) are now merged with the main [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) repo.
 
 ## Data Loader for RGB Video Frames
 
@@ -101,7 +101,7 @@ For suggestions as well as discussing ideas, please use the [discussion space](h
 
 If you find our [paper](https://doi.org/10.3390/electronics13071334) or this dataset useful for your research, please cite our following works.
 
-```
+```bib
 @article{joshi2024ibvp,
     title={iBVP Dataset: RGB-Thermal rPPG Dataset with High Resolution Signal Quality Labels},
     author={Joshi, Jitesh and Cho, Youngjun},
@@ -125,7 +125,7 @@ If you find our [paper](https://doi.org/10.3390/electronics13071334) or this dat
     number={19},
     article-number={8244},
     year={2023},
-    url={https://www.mdpi.com/1424-8220/23/19/8244}
+    url={https://www.mdpi.com/1424-8220/23/19/8244},
     issn={1424-8220},
     doi={10.3390/s23198244}
 }
@@ -133,7 +133,7 @@ If you find our [paper](https://doi.org/10.3390/electronics13071334) or this dat
 
 Additionally, as we build upon [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox), we would like to sincerely thank and acknowledge the authors of the rPPG-Toolbox. Therefore, we also request the users of the iBVP dataset to cite the [rPPG-Toolbox paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d7d0d548a6317407e02230f15ce75817-Abstract-Datasets_and_Benchmarks.html):
 
-```
+```bib
 @inproceedings{liu2024rppg,
     author = {Liu, Xin and Narayanswamy, Girish and Paruchuri, Akshay and Zhang, Xiaoyu and Tang, Jiankai and Zhang, Yuzhe and Sengupta, Roni and Patel, Shwetak and Wang, Yuntao and McDuff, Daniel},
     booktitle = {Advances in Neural Information Processing Systems},
