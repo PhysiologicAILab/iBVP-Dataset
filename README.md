@@ -10,7 +10,7 @@ The iBVP dataset is a collection of synchronized RGB and thermal infrared videos
 
 ## Requesting iBVP Dataset
 
-We have released the iBVP dataset **only for academic research purposes**. The dataset can be requested from the authors by submitting a signed copy of the end-user's licence agreement **[EULA](assets/EULA_iBVP-Dataset.pdf)** to Dr. Jitesh Joshi (mailto:jitesh.joshi.20@ucl.ac.uk) and Prof. Youngjun Cho (mailto:youngjun.cho@ucl.ac.uk). Please note that the EULA form is required to be filled by **academic supervisors**. After submitting the signed EULA to the email addresses mentioned in the EULA, your request will be reviewed and on acceptance, you will receive a link to download the dataset. 
+We have released the iBVP dataset **only for academic research purposes**. The dataset can be requested from the authors by submitting a signed copy of the end-user's licence agreement **[EULA](assets/EULA_iBVP-Dataset.pdf)** to [Dr. Jitesh Joshi](mailto:jitesh.joshi.20@ucl.ac.uk) and [Prof. Youngjun Cho](mailto:youngjun.cho@ucl.ac.uk). Please note that the EULA form is required to be filled by **academic supervisors**. After submitting the signed EULA to the email addresses mentioned in the EULA, your request will be reviewed and on acceptance, you will receive a link to download the dataset. 
 
 In your email, please include following along with the signed EULA:
 
